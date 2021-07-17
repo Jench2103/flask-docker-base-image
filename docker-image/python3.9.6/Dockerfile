@@ -9,11 +9,11 @@ RUN apt update \
 
 RUN pip install uWSGI
 
-COPY uWSGI.ini /etc
+COPY ./uWSGI.ini /etc
 
-COPY nginx.conf /etc/nginx/sites-available/default
+COPY ./nginx.conf /etc/nginx/sites-available/default
 
-COPY start.sh /usr/local/bin/
+COPY ./start.sh /usr/local/bin/
 
 RUN chmod 755 /usr/local/bin/start.sh
 
