@@ -11,9 +11,9 @@ This is a Docker base image with uWSGI and Nginx for Flask web applications.
 
 
 ## Supported tags and respective `Dockerfile` links
-- [`python3.9.6`, `latest`](https://github.com/Jench2103/flask-docker-base-image/blob/main/docker-image/python3.9.6)
-- [`python3.8.11`](https://github.com/Jench2103/flask-docker-base-image/blob/main/docker-image/python3.8.11)
-- [`python3.6.9`](https://github.com/Jench2103/flask-docker-base-image/blob/main/docker-image/python3.6.9)
+- [`python3.9.6`, `latest`](https://github.com/Jench2103/flask-docker-base-image/blob/main/docker-image/python3.9.6/Dockerfile)
+- [`python3.8.11`](https://github.com/Jench2103/flask-docker-base-image/blob/main/docker-image/python3.8.11/Dockerfile)
+- [`python3.6.9`](https://github.com/Jench2103/flask-docker-base-image/blob/main/docker-image/python3.6.9/Dockerfile)
 
 
 ## Usage
