@@ -1,6 +1,6 @@
 # Flask Docker Base Image
 
-![GitHub issues](https://img.shields.io/github/issues/jench2103/flask-docker-base-image) ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jench2103/flask-uwsgi-nginx?label=docker%20latest%20version) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/jench2103/flask-uwsgi-nginx) ![Docker Pulls](https://img.shields.io/docker/pulls/jench2103/flask-uwsgi-nginx) ![GitHub](https://img.shields.io/github/license/Jench2103/flask-docker-base-image)
+![GitHub issues](https://img.shields.io/github/issues/jench2103/flask-docker-base-image) ![Docker Image Version (latest semver)](https://img.shields.io/badge/docker%20latest%20version-python3.9.6-blue) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/jench2103/flask-uwsgi-nginx) ![Docker Pulls](https://img.shields.io/docker/pulls/jench2103/flask-uwsgi-nginx) ![GitHub](https://img.shields.io/github/license/Jench2103/flask-docker-base-image)
 
 This is a Docker base image with uWSGI and Nginx for Flask web applications.
 
