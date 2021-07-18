@@ -46,7 +46,7 @@ This is a Docker base image with uWSGI and Nginx for Flask web applications.
         ```
 
 
-## Technique reference
+## Technical reference
 - [uWSGI Official Documentation](https://uwsgi-docs.readthedocs.io/en/latest/)
 - [uWSGI - Wikipedia](https://en.wikipedia.org/wiki/UWSGI)
 - [Nginx Official Documentation](https://nginx.org/en/docs/)
